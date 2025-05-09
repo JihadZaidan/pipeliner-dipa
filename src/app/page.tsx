@@ -7,7 +7,7 @@ import Items from "@/components/ui/Item";
 export default function Home() {
   return (
     <div className="w-full flex-row gap-4 p-10">
-      <Navbar/>
+      <Button/>
     </div>
   );
 }
